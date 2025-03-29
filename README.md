@@ -1,5 +1,5 @@
 # Porfolio-Excel-Projects
-A collection of Excel projects where I explore data analysis, automation, and visualisation. From cleaning messy datasets to building dynamic dashboards, each project showcases how I use Excel to solve real-world problems. 
+An Excel project where I explore data analysis, automation, and visualisation. From cleaning the messy dataset to building a dynamic dashboards, this project showcased how I used Excel to solve a real-world problem. 
 
 ## Bakery Sales
 Project Summary: Bakery Sales Analysis
